@@ -1,6 +1,7 @@
 nav {
  height:80px;
- background-color:#ffffff
+ background-color:#ffffff;
+ list-style:none;
 }
 header {
  height:600px;
