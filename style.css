@@ -1,10 +1,16 @@
 nav {
+ width:1600px;
  height:80px;
  background-color:#ffffff;
  list-style:none;
  text-decoration:none;
 }
+#menu {
+ width:500px;
+ float:left;
+}
 header {
+  width:1600px;
  height:600px;
   background-color:#2F303A
 }
