@@ -5,9 +5,9 @@ nav {
  list-style:none;
  text-decoration:none;
 }
-#menu {
+.menu {
  width:500px;
- float:left;
+ float:right;
 }
 header {
   width:1600px;
