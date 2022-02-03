@@ -5,7 +5,7 @@ nav {
  list-style:none;
  text-decoration:none;
 }
-nav tr {
+nav td {
  width:500px;
 }
 .menu {
