@@ -5,6 +5,9 @@ nav {
  list-style:none;
  text-decoration:none;
 }
+nav tr {
+ width:500px;
+}
 .menu {
  width:500px;
  float:right;
