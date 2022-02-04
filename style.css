@@ -5,6 +5,7 @@ nav ul,li {
  list-style:none;
  text-decoration:none;
 }
+nav a {
 font-family: Raleway;
 font-size: 26px;
 font-style: normal;
@@ -12,6 +13,7 @@ font-weight: 700;
 line-height: 1.3;
 letter-spacing: 0.03em;
 text-align: left;
+}
 
 font-family: Oleo Script;
 font-size: 26px;
