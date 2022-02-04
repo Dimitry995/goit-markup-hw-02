@@ -1,24 +1,9 @@
-nav {
+nav ul,li {
  width:1600px;
  height:80px;
  background-color:#ffffff;
  list-style:none;
  text-decoration:none;
-}
-td {
- width:500px;
-}
-.menu {
- width:500px;
- float:right;
-}
-header {
-  width:1600px;
- height:600px;
-  background-color:#2F303A
-}
-ul,li {
- list-style:none;
 }
 font-family: Raleway;
 font-size: 26px;
