@@ -17,4 +17,7 @@ header {
  height:600px;
   background-color:#2F303A
 }
+ul,li {
+ list-style:none;
+}
 
