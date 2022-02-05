@@ -1,22 +1,23 @@
 <!doctype html>
 <html lang="ru">
     <head>
-        <title>ДЗ1</title>
+        <title>ДЗ2</title>
 		<meta charset="utf-8"/>
 	    	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
     		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+			<rel link="stylesheet" href="style.css" />
     </head>
     <body>
-    <header>
-	    <nav>
+    <header class="menu">
 	    <a href="./index.html">WebStudio</a>
+			    <nav class="middel">
 		    <ul>
 			    <li><a href="./index.html">Студия</a></li>
 <li><a href="./portfolio.html">Портфолио</a></li>
 <li><a href="#Kontakti">Контакты</a></li>
 			    </ul>
 		    	    </nav>
-		    <address>
+		    <address class="bottom">
 			    <ul>
 				    <li><a href="mailto:example@mail.com">info@devstudio.com</a></li>
 				    <li><a href="#Phone">+380961111111</a></li>
@@ -26,27 +27,30 @@
 
 		    </header>
     <main>
-	    <section class="header">
+	    <section class="hero">
 	    <h1>Эффективные решения для вашего бизнеса</h1>
 <button type="button">Заказать услугу</button>
 	    </section>
         <section class="info">
-		<div>
+		<h2 style="overflow:hidden;" >Примущества</h2>
+		<ul>
+			<li>
             <h3>Внимание к деталям</h3>
             <p>Идейные соображения а также начало повседневной работы по формированию позиции.</p>
-		</div>
-		<div>
+		</li>
+		<li>
             <h3>Пунктуальность</h3>
             <p>Задача организации, в особености рамки и место обучения кадров </p>
-	</div>
-            <div>
+	</li>
+            <li>
 		    <h3>Планирование</h3>
             <p>Равным образом консцльтация с широким активом в значительной степени</p>
-</div>
-		<div>
+</li>
+		<li>
             <h3>Современые технологии</h3>
             <p>Значимость этих проблем настолько очевидна, что реализация плановых заданий..</p>
-		</div>
+		</li>
+		</ul>
         </section>
         <section class="img">
 <h2>Чем мы занимаемся </h2>
@@ -56,45 +60,41 @@
 			<li><img src="images/2.jpg" width="370" height="294" alt="Computer color spectr"/></li>
 			</ul>
         </section>
-            <div id="persons">
-            <section>
+            <section class="person">
 		    <ul>
-			    <li><img src="images/5.jpg" width="270px" height:"260px" alt="persons"/></li>
-			    <li><h3>Игорь демьяненко</h3></li>
-			    <li><h4 lang="en" >Product Desinger</h4></li>
-		    </ul>
-                                         </section>
-             <section>
-		     <ul>
-           <li><img src="images/6.jpg" width="270px" height:"260px" alt="persons"/></li>
-                                         <li><h3>Ольга Репина</h3></li>
-                                        <li> <p lang="en">Frontend Developer</p></li>
-			      </ul>
-                                         </section>
-             <section>
-		     <ul>
-            <li><img src="images/7.jpg" width="270px" height:"260px" alt="persons"/></li>
-                                         <li><h3>Николай Тарасов</h3></li>
-                                        <li> <p lang="en">Marketing</p></li>
-		     </ul>
-                                         </section>
-             <section>
-		     <ul>
-           <li> <img src="images/8.jpg"  width="270px" height:"260px" alt="persons"/></li>
-                                         <li><h3>Михаил Ермаков</h3></li>
-                                        <li> <p lang="en">Ul Designer</p></li>
-			      </ul>
+		    <li>
+			    <img src="images/5.jpg" width="270" height:"260" alt="persons"/>
+			    <h3>Игорь демьяненко</h3>
+			    <p lang="en" >Product Desinger</p>
+		    </li>
+		     <li>
+           <img src="images/6.jpg" width="270" height:"260" alt="persons"/>
+                                         <h3>Ольга Репина</h3>
+                                         <p lang="en">Frontend Developer</p>
+			      </li>
+			    <li>
+            <img src="images/7.jpg" width="270" height:"260" alt="persons"/>
+                                         <h3>Николай Тарасов</h3>
+                                        <p lang="en">Marketing</p>
+		     </li>
+			<li>
+ <img src="images/8.jpg"  width="270" height:"260" alt="persons"/>
+                                         <h3>Михаил Ермаков</h3>
+                                         <p lang="en">Ul Designer</p>
+			      </li>
 		    
                                          </section>
-        </div>
 	    </main>
     <footer>
-	    <ul>
-	    <li><a href="./index.html">WebStudio</a></li>
-	</li> г.Киев, пр-т Леси УкраинкиБ 26</li>
+	    
+	    <a href="./index.html">WebStudio</a>
+	<address>
+		<ul>
+		    </li> г.Киев, пр-т Леси УкраинкиБ 26</li>
             <li lang="en">info@devstudio.com</li>
             <li>+380961111111</li>
         </ul>
+	    </address>
 	    </footer>
     </body>
 </html>
