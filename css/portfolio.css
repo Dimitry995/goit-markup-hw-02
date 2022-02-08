@@ -1,0 +1,127 @@
+.container {
+	width:1170px;
+	margin:0 auto;
+	border:1px solid red;
+}
+/*--HEADER--START--*/
+.header {
+	width:1600px;
+	height:80px;
+	background-color:red;
+}
+.header a {
+font-family:'Roboto', sanserif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 0.7;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+a.logo  {
+	width:150px;
+	padding-top:30px;
+	background-color:brown;
+	float:left;
+	font-family:'Raleway', sanserif;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.2;
+	letter-spacing: 0.03em;
+	text-align: left;
+	position:relative;
+text-decoration:none;	
+}
+.logo-color-black {
+	color:#212121;
+}
+
+.top-menu {
+		position:relative;
+		display:inline;
+		padding-top:30px;
+}
+.top-menu a {
+	padding-top:30px;
+	text-decoration:none;
+}
+.top-menu ul {
+			list-style:none;
+	text-decoration:none;
+	display:inline;
+}
+.top-menu li {
+			list-style:none;
+	text-decoration:none;
+	display:inline;
+	margin-left:15px;
+}
+.contacts  ul {
+	list-style:none;
+	text-decoration:none;
+	position:relative;
+	float:right;
+	display:inline;
+	padding-top:30px;
+	
+}
+.contacts  li {
+			list-style:none;
+	text-decoration:none;
+	display:inline;
+	
+}
+.contacts a {
+	font-family: 'Roboto', sanserif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 0.7;
+letter-spacing: 0.02em;
+text-align: left;
+text-decoration:none;	
+}
+/*--HEADER--END--*/
+/*--MAIN--HERO-START--*/
+.top-filters {
+	padding-top:100px;
+	margin:0 auto;
+}
+.top-filters ul {
+		margin:0 auto;
+
+}
+.top-filters li {
+	list-style:none;
+	text-decoration:none;
+	display:inline-block;
+}
+.top-filters a {
+		text-decoration:none;
+}
+.content ul {
+	list-style:none;
+	text-decoration:none;
+	display:inline-block;
+}
+.content li {
+	list-style:none;
+	text-decoration:none;
+	display:inline-block;
+}
+/*--MAIN--HERO-END--*/
+/*--FOOTER--START--*/
+.address {
+	padding-top:60px;
+
+}
+.address li {
+	list-style:none;
+
+}
+.address a {
+	
+}
+/*--FOOTER--END--*/--*/
