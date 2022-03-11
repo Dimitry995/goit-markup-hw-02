@@ -144,6 +144,9 @@ a.logo  {
 	color:#212121;
 
 }
+.flex {
+	margin-top:0;	
+}
 .info p {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
