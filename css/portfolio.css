@@ -4,7 +4,8 @@
 }
 /*--HEADER--START--*/
 .menu {
-	height:80px;
+	height:60px;
+	padding-top:20px;
 }
 a.logo  {
 	width:250px;
