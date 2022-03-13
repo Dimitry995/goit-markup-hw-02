@@ -49,6 +49,9 @@ list-style: none;
 .menu a:hover {
 	color:#2196F3;
 }
+.menu a:focus {
+	color:#2196F3;
+}
 a.logo  {
 	width:250px;
 	color:#2196F3;
@@ -254,6 +257,9 @@ color:#757575;
 .footer a {
 padding-top:60px;
 text-decoration: none;
+}
+.footer-logo-span {
+color:#fff;	
 }
 li.adress {
 font-family: 'Roboto', sans-serif;
