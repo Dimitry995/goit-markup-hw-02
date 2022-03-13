@@ -167,7 +167,7 @@ a.logo  {
 	height:386px;
 }
 .img ul {
-	padding-top:92px;
+	margin-top:92px;
 	height:386px;
 	width:1170px;
 }
@@ -198,7 +198,7 @@ a.logo  {
 
 }
 .person h2 {
-padding-top:94px;
+margin-top:94px;
 margin:0 auto;
 font-family: 'Roboto', sans-serif;
 font-size: 36px;
@@ -235,7 +235,7 @@ color:#757575;
 .person ul {
 	width:1170px;
 	height:368px;
-	padding-top:50px;
+	margin-top:50px;
 }
 .person li {
 			display:inline-block;
