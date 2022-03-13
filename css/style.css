@@ -55,6 +55,9 @@ list-style: none;
 .top-menu a:active {
 	color:#2196F3;
 }
+.top-menu a:link {
+color:tomato;	
+}
 a.logo  {
 	width:250px;
 	color:#2196F3;
