@@ -4,7 +4,7 @@
 	--third-color:#fff;
 }
 body {
-	font-size:14px;
+	font-size:14;
 	font-weight:400;
 	font-style:normal;
 	font-family:'Roboto', sans-serif;
@@ -15,15 +15,15 @@ ul,ol {
 	padding-left: 0;
 }
 .container {
-	width:1200px;
+	width:1200;
 	margin:0 auto;
 }
 .top-menu {
-	height:60px;
-	margin-top:20px;
+	height:60;
+	margin-top:20;
 }
 .top-menu ul {
- 	height:80px;
+ 	height:80;
 	 display: inline;
 
 }
@@ -31,14 +31,14 @@ ul,ol {
 	list-style:none;
 	text-decoration:none;
 	display:inline-block;
-	margin-left:15px;
+	margin-left:30;
 }
 .top-menu a {
 font-family: 'Roboto', sans-serif;
-font-size: 14px;
+font-size: 14;
 font-style: normal;
 font-weight: 500;
-line-height: 16px;
+line-height: 16;
 letter-spacing: 0.02em;
 text-align: left;
 color:#212121;
@@ -59,14 +59,14 @@ list-style: none;
 color:tomato;	
 }
 a.logo  {
-	width:250px;
+	width:250;
 	color:#2196F3;
 	float:left;
 	font-family: 'Raleway', sans-serif;
-	font-size: 26px;
+	font-size: 26;
 	font-style: normal;
 	font-weight: 700;
-	line-height: 31px;
+	line-height: 31;
 	letter-spacing: 0.03em;
 	text-align: left;	
 }
@@ -77,10 +77,10 @@ a.logo  {
 	display: inline;
 }
 .navigation a {
-	padding-top:32px;
+	padding-top:32;
 }
 .right {
-	width:150px;
+	width:150;
 	float:right;
 }
 .right li {
@@ -95,13 +95,13 @@ a.logo  {
 }
 
 .big-board  {
-	height:600px;
+	height:600;
 	background-color:#2F303A;
 }
 .big-board  h1 {
-	padding-top:200px;
+	padding-top:200;
 	font-family: 'Roboto', sans-serif;
-	font-size: 44px;
+	font-size: 44;
 	font-style: normal;
 	font-weight: 900;
 	line-height: 0.73;
@@ -109,20 +109,20 @@ a.logo  {
 	text-align: center;
 	color:#fff;
 	margin-top:0;
-	margin-bottom:15px;
+	margin-bottom:15;
 	text-transform: uppercase
 
 	
 }
 .big-board  button {
-	height:50px;
-	width:200px;
- 	margin-left:532px;
+	height:50;
+	width:200;
+ 	margin-left:532;
 	background: #2196F3;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-	border-radius: 4px;
+	border-radius: 4;
 	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
+	font-size: 16;
 	font-style: normal;
 	font-weight: 700;
 	line-height: 0.53;
@@ -135,18 +135,18 @@ a.logo  {
 	visibility:hidden;
 }
 .info ul {
-	height:279px;
+	height:279;
 }
 .info li {
 	display:inline-block;
-	width:270px;
-	margin-left:30px;
+	width:270;
+	margin-left:30;
 }
 .info h3 {
-	margin-top:94px;
+	margin-top:94;
 	margin-bottom:0;
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
+	font-size: 14;
 	font-style: normal;
 	font-weight: 700;
 	line-height: 0,87;
@@ -157,10 +157,10 @@ a.logo  {
 }
 .info p {
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
+	font-size: 14;
 	font-style: normal;
 	font-weight: 400;
-	line-height: 24px;
+	line-height: 24;
 	letter-spacing: 0.03em;
 	text-align: left;
 	color:#757575;
@@ -169,47 +169,47 @@ a.logo  {
 	
 }
 .img {
-	margin-top:10px;
+	margin-top:10;
 }
 .img ul {
-	margin-top:92px;
-	height:386px;
-	width:1170px;
+	margin-top:92;
+	height:386;
+	width:1170;
 }
 .img li {
 		display:inline-block;
-		margin-left:22.5px;
+		margin-left:22.5;
 }
 .img h2 {
 	margin:0 auto;
 	font-family: 'Roboto', sans-serif;
-	font-size: 36px;
+	font-size: 36;
 	font-style: normal;
 	font-weight: 700;
-	line-height: 42px;
+	line-height: 42;
 	letter-spacing: 0.03em;
 	text-align: center;
 	color: #212121;
 
 }
 .img img {
-	width:370px;
-	height:294px;
+	width:370;
+	height:294;
 	
 }
 .person {
-	height:480px;
+	height:480;
 	background-color:#F5F4FA;
 
 }
 .person h2 {
-margin-top:94px;
+margin-top:94;
 margin:0 auto;
 font-family: 'Roboto', sans-serif;
-font-size: 36px;
+font-size: 36;
 font-style: normal;
 font-weight: 700;
-line-height: 42px;
+line-height: 42;
 letter-spacing: 0.03em;
 text-align: center;
 color:#212121;
@@ -217,10 +217,10 @@ color:#212121;
 }
 .person h3 {
 	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
+	font-size: 16;
 	font-style: normal;
 	font-weight: 500;
-	line-height: 19px;
+	line-height: 19;
 	letter-spacing: 0.03em;
 	text-align: center;
 	color:#212121 ;
@@ -228,41 +228,41 @@ color:#212121;
 }
 .person p {
 font-family: 'Roboto', sans-serif;
-font-size: 16px;
+font-size: 16;
 font-style: normal;
 font-weight: 400;
-line-height: 19px;
+line-height: 19;
 letter-spacing: 0.03em;
 text-align: center;
 color:#757575;
 
 }
 .person ul {
-	width:1170px;
-	height:368px;
-	margin-top:50px;
+	width:1170;
+	height:368;
+	margin-top:50;
 }
 .person li {
 			display:inline-block;
-			padding-right:15px;
+			padding-right:15;
 }
 .person  img {
-	width:270px;
-	height:260px;
+	width:270;
+	height:260;
 }
 .footer {
-	height:252px;
+	height:252;
 	background-color:#2F303A;
 }
 .footer ul {
-	padding-top:111px;
+	padding-top:111;
 	background-color:#2F303A;
 }
 .footer li {
 	list-style:none;
 }
 .footer a {
-padding-top:60px;
+padding-top:60;
 text-decoration: none;
 }
 .logo-color-white {
@@ -271,10 +271,10 @@ color:#fff;
 
 li.adress a {
 font-family: 'Roboto', sans-serif;
-font-size: 14px;
+font-size: 14;
 font-style: normal;
 font-weight: 400;
-line-height: 24px;
+line-height: 24;
 letter-spacing: 0.03em;
 text-align: left;
 color: #fff;
@@ -282,10 +282,10 @@ color: #fff;
 }
 li.email-phone a {
 font-family: 'Roboto', sans-serif;
-font-size: 14px;
+font-size: 14;
 font-style: normal;
 font-weight: 400;
-line-height: 24px;
+line-height: 24;
 letter-spacing: 0.03em;
 text-align: left;
 color:#757575;
