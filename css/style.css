@@ -141,6 +141,7 @@ a.logo  {
 }
 .info h3 {
 	margin-top:94px;
+	margin-bottom:0;
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-style: normal;
