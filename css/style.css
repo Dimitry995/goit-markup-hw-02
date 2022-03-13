@@ -261,7 +261,7 @@ text-decoration: none;
 .logo-color-white {
 color:#fff;	
 }
-li.adress {
+li.adress a {
 font-family: 'Roboto', sans-serif;
 font-size: 14px;
 font-style: normal;
@@ -272,7 +272,7 @@ text-align: left;
 color: #fff;
 
 }
-li.email-phone {
+li.email-phone a {
 font-family: 'Roboto', sans-serif;
 font-size: 14px;
 font-style: normal;
