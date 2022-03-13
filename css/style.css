@@ -91,11 +91,11 @@ a.logo  {
 
 }
 
-.hero  {
+.board  {
 	height:600px;
 	background-color:#2F303A;
 }
-.hero  h1 {
+.board  h1 {
 	padding-top:200px;
 	font-family: 'Roboto', sans-serif;
 	font-size: 44px;
@@ -111,7 +111,7 @@ a.logo  {
 
 	
 }
-.hero  button {
+.board  button {
 	height:50px;
 	width:200px;
  	margin-left:532px;
