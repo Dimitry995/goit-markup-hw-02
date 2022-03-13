@@ -52,6 +52,9 @@ list-style: none;
 .top-menu a:focus {
 	color:#2196F3;
 }
+.top-menu a:active {
+	color:#2196F3;
+}
 a.logo  {
 	width:250px;
 	color:#2196F3;
