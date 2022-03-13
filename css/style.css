@@ -91,11 +91,11 @@ a.logo  {
 
 }
 
-.board  {
+.big-board  {
 	height:600px;
 	background-color:#2F303A;
 }
-.board  h1 {
+.big-board  h1 {
 	padding-top:200px;
 	font-family: 'Roboto', sans-serif;
 	font-size: 44px;
@@ -111,7 +111,7 @@ a.logo  {
 
 	
 }
-.board  button {
+.big-board  button {
 	height:50px;
 	width:200px;
  	margin-left:532px;
@@ -151,9 +151,6 @@ a.logo  {
 	text-align: left;
 	color:#212121;
 
-}
-.flex {
-	margin-top:0;	
 }
 .info p {
 	font-family: 'Roboto', sans-serif;
