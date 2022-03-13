@@ -267,7 +267,7 @@ text-decoration: none;
 color:#fff;	
 }
 
-li.adress p {
+li.adress a {
 font-family: 'Roboto', sans-serif;
 font-size: 14px;
 font-style: normal;
