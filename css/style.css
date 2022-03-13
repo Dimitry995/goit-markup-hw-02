@@ -18,22 +18,22 @@ ul,ol {
 	width:1170px;
 	margin:0 auto;
 }
-.menu {
+.top-menu {
 	height:60px;
 	margin-top:20px;
 }
-.menu ul {
+.top-menu ul {
  	height:80px;
 	 display: inline;
 
 }
-.menu li {
+.top-menu li {
 	list-style:none;
 	text-decoration:none;
 	display:inline-block;
 	margin-left:15px;
 }
-.menu a {
+.top-menu a {
 font-family: 'Roboto', sans-serif;
 font-size: 14px;
 font-style: normal;
@@ -46,10 +46,10 @@ text-decoration:none;
 list-style: none;
 
 }
-.menu a:hover {
+.top-menu a:hover {
 	color:#2196F3;
 }
-.menu a:focus {
+.top-menu a:focus {
 	color:#2196F3;
 }
 a.logo  {
