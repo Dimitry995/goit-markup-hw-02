@@ -55,9 +55,6 @@ list-style: none;
 .top-menu a:active {
 	color:#2196F3;
 }
-.top-menu a:link {
-color:tomato;	
-}
 a.logo  {
 	width:250px;
 	color:#2196F3;
@@ -70,10 +67,13 @@ a.logo  {
 	letter-spacing: 0.03em;
 	text-align: left;	
 }
+.logo-color-white {
+	color:#fff;
+}
 .logo-color-black {
 	color:#212121;
 }
-.navigation{
+.navigation {
 	display: inline;
 }
 .navigation a {
@@ -84,9 +84,11 @@ a.logo  {
 	float:right;
 }
 .right li {
+	height:80px;
 }
 .right a {
 	color:#757575;
+	padding-top:32px;
 
 }
 .right a:hover {
@@ -95,7 +97,7 @@ a.logo  {
 }
 
 .big-board  {
-	height:600px;
+	height:500px;
 	background-color:#2F303A;
 }
 .big-board  h1 {
@@ -150,7 +152,6 @@ a.logo  {
 	font-size: 14;
 	font-style: normal;
 	font-weight: 700;
-	line-height: 0,87;
 	letter-spacing: 0.03em;
 	text-align: left;
 	color:#212121;
@@ -237,7 +238,7 @@ color:#757575;
 }
 .person li {
 			display:inline-block;
-			padding-right:15px;
+			margin-left:30px;
 }
 .person  img {
 	width:270px;
