@@ -357,12 +357,18 @@ color:#757575;
 }
 .top-filters a:hover {
 	background-color: #2196F3;
+	border-radius: 4px;
+	color:#fff;
 }
 .top-filters a:focus {
 	background-color: #2196F3;
+	border-radius: 4px;
+	color:#fff;
 }
 .item-link a:active {
 	background-color: #2196F3;
+	border-radius: 4px;
+	color:#fff;
 }
 .content ul {
 	list-style:none;
@@ -444,5 +450,11 @@ line-height: 24px;
 letter-spacing: 0.03em;
 text-align: left;
 color:#757575;
+}
+li.email-phone a:hover {
+	color:#2196F3;
+}
+li.email-phone a:focus {
+	color:#2196F3;
 }
 /*--FOOTER--END--*/
