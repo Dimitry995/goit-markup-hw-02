@@ -25,10 +25,9 @@ section {
 /*--HEADER--START--*/
 
 .menu {
-	border-bottom:1px solid #eee;
-	margin-top:0;
-	display:inline;
-	padding-top:0;
+	display: inline;
+    	border-bottom: 1px solid #eee;
+    	padding-top: 0;
 }
 a.logo  {
 	width:250px;
