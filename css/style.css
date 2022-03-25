@@ -20,7 +20,7 @@ ul,ol {
 	margin:0 auto;
 }
 section {
-	margin-top:94px;
+	padding-top:94px;
 }
 /*--HEADER--START--*/
 
@@ -29,7 +29,7 @@ section {
 	border-bottom:1px solid #eee;
 	margin-top:0;
 	display:inline;
-	margin-top:0;
+	padding-top:0;
 }
 a.logo  {
 	width:250px;
