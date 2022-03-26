@@ -172,6 +172,7 @@ h1.title {
 	margin-top:0;
 	width:270px;
 	margin-left:27px;
+	padding-top:0;
 }
 .info h2.title {
     visibility: hidden;
