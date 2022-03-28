@@ -101,19 +101,7 @@ padding-bottom:34px;
 }
 
 
-a.link.menu:hover {
-	color:var(--four-color);
-}
-a.link.menu:focus {
-	color:var(--four-color);
-}
-a.current {
-	color:#var(--four-color);
-}
-a.contact:hover {
-	color:var(--four-color);
-}
-a.contact:hover {
+a.link.menu:hover, a.link.menu:focus, a.current, a.contact:hover, a.contact:hover  {
 	color:var(--four-color);
 }
 /*--HEADER--END--*/
