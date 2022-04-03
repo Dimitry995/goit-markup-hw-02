@@ -104,6 +104,9 @@ padding-bottom:34px;
 a.link.menu:hover, a.link.menu:focus, a.contact:hover, a.contact:hover  {
 	color:var(--four-color);
 }
+a.current {
+	color:var(--four-color);	
+}
 /*--HEADER--END--*/
 /*--MAIN--HERO-START--*/
 /*index.html*/
