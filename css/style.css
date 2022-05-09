@@ -388,10 +388,16 @@ a.phone {
 	top:150px ;
 	}	
 }
-.email.phone a:hover {
+.email a:hover {
 	color:var(--four-color);
 }
-.email.phone a:focus {
+.email a:focus {
+	color:var(--four-color);
+}
+.phone a:hover {
+	color:var(--four-color);
+}
+.phone a:focus {
 	color:var(--four-color);
 }
 /*--FOOTER--END--*/
