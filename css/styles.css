@@ -31,13 +31,13 @@ section {
 }
 /*--HEADER--START--*/
 
-header.menu {
+.menu {
 	display: flex;
 	flex-direction: row;
 	border-bottom:1px solid var(--seven-color);
 	margin:0 auto;
 }
-a.logo-top   {
+.logo-top   {
 	color:var(--four-color);
 	font-family: 'Raleway', sans-serif;
 	font-size: 26px;
@@ -50,35 +50,35 @@ a.logo-top   {
 .logo-color-black {
 	color:var(--main-color);
 }
-ul.navigation-list  {
+.navigation-list  {
 	display:flex;
 	flex-direction:row;
 }
-li.navigation-item  {
+.navigation-item  {
 	margin-left:45px;
 	display:inline-block;
 	padding-top:32px;
 	padding-bottom:34px;
 }
-a.navigation-link   {
+.navigation-link   {
 font-weight: 500;
 letter-spacing: 0.02em;
 text-align: left;
 color:var(--main-color);
 
 }
-ul.top  {
+.top  {
 	display: flex;
 	flex-direction: row;
 	margin-left:400px;
 }
-li.right  {
+.right  {
 	display:inline-block;
 	margin-left:45px;
 	padding-top:32px;
 	padding-bottom:34px;	
 }
-a.item-link   {
+.item-link   {
 font-weight: 500;
 line-height: 0.7;
 letter-spacing: 0.02em;
@@ -88,16 +88,16 @@ color:var(--secondary-color);
 padding-top:32px;
 padding-bottom: 34px;
 }
-a.navigation-link:hover{
+.navigation-link:hover{
 	color:var(--four-color);
 }
-a.navigation-link:focus{
+.navigation-link:focus{
 	color:var(--four-color);
 }
-a.item-link:hover {
+.item-link:hover {
 	color:var(--four-color);
 }
-a.item-link:focus {
+.item-link:focus {
 	color:var(--four-color);
 }
 /*--HEADER--END--*/
@@ -137,21 +137,21 @@ a.item-link:focus {
 	cursor:pointer;
 	
 }
-.info h2 {
+.info-title-h2 {
 	visibility:hidden;
 	margin-top:0;
 }
-ul.info-list  {
+.info-list  {
 	display:flex;
 	flex-direction: row;
 	justify-content: space-around;
 }
-li.info-item  {
+.info-item  {
 	display:inline-block;
 	width:270px;
 
 }
-h3.info-title  {
+.info-title-h3  {
 	font-weight: 700;
 	letter-spacing: 0.03em;
 	text-align: left;
@@ -161,7 +161,7 @@ h3.info-title  {
 	text-transform: uppercase;
 
 }
-p.info-paragraf  {
+.info-paragraf  {
 	line-height: 24px;
 	letter-spacing: 0.03em;
 	text-align: left;
@@ -170,15 +170,15 @@ p.info-paragraf  {
 
 	
 }
-ul.img-list  {
+.img-list  {
 	display:flex;
 	flex-direction: row;
 	justify-content: space-around;
 }
-li.img-item  {
+.img-item  {
 		
 }
-h2.img-title  {
+.img-title  {
 	margin:0 auto;
 	font-size: 36px;
 	font-weight: 700;
@@ -199,7 +199,7 @@ img.img {
 	padding-bottom:94px;
 
 }
-.person h2 {
+.person-title-h2 {
 margin:0 auto;
 font-size: 36px;
 font-weight: 700;
@@ -209,7 +209,7 @@ text-align: center;
 color:var(--main-color);
 
 }
-.person h3 {
+.person-title-h3 {
 	font-size: 16px;
 	font-weight: 500;
 	line-height: 0.8 ;
@@ -218,7 +218,7 @@ color:var(--main-color);
 	color:var(--main-color);
 
 }
-.person p {
+.person-paragraf {
 font-size: 16px;
 line-height:0.8;
 letter-spacing: 0.03em;
@@ -226,13 +226,13 @@ text-align: center;
 color:var(--secondary-color);
 
 }
-ul.person-list  {
+.person-list  {
 	padding-top:50px;
 	display:flex;
 	flex-direction: row;
 	justify-content: space-around;
 }
-li.person-item  {
+.person-item  {
 			display:inline-block;
 			justify-content: center;
 			background-color:var(--third-color);
@@ -248,14 +248,14 @@ img.person   {
 	padding-top:100px;
 	margin:0 auto;
 }
-ul.filters-list  {
+.filters-list  {
 		margin:0 auto;
 		display:flex;
 		justify-content: center;
 		flex-direction: row;
 
 }
-li.filters-item  {
+.filters-item  {
 	width:145px;
 	height:38px;
 	display:inline-block;
@@ -265,7 +265,7 @@ li.filters-item  {
 	justify-content: center;
 	border-radius: 4px;
 }
-a.filters-link  {
+.filters-link  {
 	font-size: 16px;
 	font-weight: 500;
 	line-height: 0.6;
@@ -281,22 +281,22 @@ a.filters-link  {
 
 }
 
-a.filters-link:hover {
+.filters-link:hover {
 	background-color: var(--four-color);
 		border-radius: 4px;
 		color:var(--third-color);
 }
-a.filters-link:focus {
+.filters-link:focus {
 	background-color: var(--four-color);
 		border-radius: 4px;
 		color:var(--third-color);
 }
-ul.content-list  {
+.content-list  {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 }
-li.content-item  {
+.content-item  {
 	display:inline-block;
 	margin-left:22px;
 	border:1px solid var(--seven-color);
@@ -334,7 +334,7 @@ margin-left:15px;
 	background-color:var(--six-color);
 	position: relative;
 }
-a.logo-bottom {
+.logo-bottom {
 	top:60px;
 	color:var(--four-color);
 	font-family: 'Raleway', sans-serif;
@@ -350,13 +350,13 @@ a.logo-bottom {
 .footer-link a {
 
 	}
-ul.footer-list  {
+.footer-list  {
 	background-color:var(--six-color);
 	display: flex;
 	flex-direction: column;
 
 }
-.footer-item li {
+.footer-item {
 display: list-item;
 }
 
