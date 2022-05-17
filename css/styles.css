@@ -360,7 +360,7 @@ margin-left:15px;
 display: list-item;
 }
 
-.adress a {
+.adress {
 line-height: 0.6;
 letter-spacing: 0.03em;
 text-align: left;
@@ -369,7 +369,7 @@ top: 111px;
 position: absolute;
 
 }
-a.email  {
+.email  {
 line-height: 24px;
 letter-spacing: 0.03em;
 text-align: left;
@@ -377,7 +377,7 @@ color:var(--secondary-color);
 position: absolute;
 top:130px ;
 }
-a.phone {
+.phone {
 	line-height: 24px;
 	letter-spacing: 0.03em;
 	text-align: left;
