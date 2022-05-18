@@ -386,16 +386,16 @@ top:130px ;
 	top:150px ;
 	}	
 }
-.email a:hover {
+.email:hover {
 	color:var(--four-color);
 }
-.email a:focus {
+.email:focus {
 	color:var(--four-color);
 }
-.phone a:hover {
+.phone:hover {
 	color:var(--four-color);
 }
-.phone a:focus {
+.phone:focus {
 	color:var(--four-color);
 }
 /*--FOOTER--END--*/
