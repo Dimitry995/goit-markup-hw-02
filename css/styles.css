@@ -365,37 +365,18 @@ line-height: 0.6;
 letter-spacing: 0.03em;
 text-align: left;
 color:var(--third-color);
-top: 111px;
-position: absolute;
-
 }
-.email  {
+.email-phone  {
 line-height: 24px;
 letter-spacing: 0.03em;
 text-align: left;
 color:var(--secondary-color);
-position: absolute;
-top:130px ;
 }
-.phone {
-	line-height: 24px;
-	letter-spacing: 0.03em;
-	text-align: left;
-	color:var(--secondary-color);
-	position: absolute;
-	top:150px ;
-	}	
-}
-.email:hover {
+
+.email-phone:hover {
 	color:var(--four-color);
 }
-.email:focus {
-	color:var(--four-color);
-}
-.phone:hover {
-	color:var(--four-color);
-}
-.phone:focus {
+.email-phone:focus {
 	color:var(--four-color);
 }
 /*--FOOTER--END--*/
