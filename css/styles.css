@@ -354,6 +354,8 @@ margin-left:15px;
 	background-color:var(--six-color);
 	display: flex;
 	flex-direction: column;
+	position:absolute;
+	top:95px;
 
 }
 .footer-item {
