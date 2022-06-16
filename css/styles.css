@@ -259,6 +259,7 @@ display:none;
 		display:flex;
 		justify-content: center;
 		flex-direction: row;
+		padding-bottom:94px;
 
 }
 .filters-item  {
@@ -301,6 +302,7 @@ display:none;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+	justyfive-content:center;
 }
 .content-item  {
 	display:inline-block;
