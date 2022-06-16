@@ -259,7 +259,7 @@ display:none;
 		display:flex;
 		justify-content: center;
 		flex-direction: row;
-		padding-bottom:94px;
+		margin-top:94px;
 
 }
 .filters-item  {
@@ -302,7 +302,8 @@ display:none;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	justyfive-content:center;
+	justify-content:center;
+	margin-top:94px;
 }
 .content-item  {
 	display:inline-block;
