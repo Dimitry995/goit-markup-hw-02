@@ -80,7 +80,7 @@ color:var(--main-color);
 }
 .item-link   {
 font-weight: 500;
-line-height: 0.7;
+line-height: 0,7em;
 letter-spacing: 0.02em;
 text-align: left;
 text-decoration:none;
@@ -131,7 +131,7 @@ padding-bottom: 34px;
 	border-radius: 4px;
 	font-size: 16px;
 	font-weight: 700;
-	line-height: 0.53;
+	line-height: 0,53em;
 	letter-spacing: 0.06em;
 	text-align: center;
 	color:var(--third-color);
@@ -164,7 +164,7 @@ padding-bottom: 34px;
 
 }
 .info-paragraf  {
-	line-height: 24px;
+	line-height: 0,6em;
 	letter-spacing: 0.03em;
 	text-align: left;
 	color:var(--secondary-color);
@@ -185,7 +185,7 @@ padding-bottom: 34px;
 	margin:0 auto;
 	font-size: 36px;
 	font-weight: 700;
-	line-height:0.9;
+	line-height:0,9em;
 	letter-spacing: 0.03em;
 	text-align: center;
 	color:var(--main-color);
@@ -206,7 +206,7 @@ padding-bottom: 34px;
 margin:0 auto;
 font-size: 36px;
 font-weight: 700;
-line-height: 0.9;
+line-height: 0,9em;
 letter-spacing: 0.03em;
 text-align: center;
 color:var(--main-color);
@@ -215,7 +215,7 @@ color:var(--main-color);
 .person-title-h3 {
 	font-size: 16px;
 	font-weight: 500;
-	line-height: 0.8 ;
+	line-height: 0,8em ;
 	letter-spacing: 0.03em;
 	text-align: center;
 	color:var(--main-color);
@@ -223,7 +223,7 @@ color:var(--main-color);
 }
 .person-paragraf {
 font-size: 16px;
-line-height:0.8;
+line-height:0,8em;
 letter-spacing: 0.03em;
 text-align: center;
 color:var(--secondary-color);
@@ -274,7 +274,7 @@ display:none;
 .filters-link  {
 	font-size: 16px;
 	font-weight: 500;
-	line-height: 0.6;
+	line-height: 0,6em;
 	letter-spacing: 0.03em;
 	text-align: center;
 	color:var(--main-color);
@@ -313,7 +313,7 @@ display:none;
 .content-paragraf {
 font-size: 18px;
 font-weight: 700;
-line-height:0.5;
+line-height:0,5em;
 letter-spacing: 0.06em;
 text-align: left;
 colorvar(--main-color);
@@ -322,7 +322,7 @@ margin-left:15px;
 }
 .content-title-h2 {
 font-size: 16px;
-line-height: 0.5;
+line-height: 0,5em;
 letter-spacing: 0.03em;
 text-align: left;
 color:var(--secondary-color);
@@ -371,13 +371,13 @@ display: list-item;
 }
 
 .adress {
-line-height: 0.6;
+line-height: 0,6em;
 letter-spacing: 0.03em;
 text-align: left;
 color:var(--third-color);
 }
 .email-phone  {
-line-height: 24px;
+line-height:0,6em;
 letter-spacing: 0.03em;
 text-align: left;
 color:var(--secondary-color);
