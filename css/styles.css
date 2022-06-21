@@ -250,6 +250,9 @@ img.person   {
 }
 /*index.html-END-*/
 /*portfolio.html*/
+.main {
+padding-top:0;	
+}
 .filters {
 	padding-top:100px;
 	margin:0 auto;
