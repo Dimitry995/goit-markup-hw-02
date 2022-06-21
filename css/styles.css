@@ -255,7 +255,7 @@ img.person   {
 	margin:0 auto;
 }
 .filters-title-h {
-display:none;	
+visibility:hidden;	
 }
 .filters-list  {
 		margin:0 auto;
