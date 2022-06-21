@@ -201,7 +201,15 @@ padding-bottom: 34px;
 	padding-bottom:94px;
 
 }
-
+.person-title-h {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height:1.2;
+text-align: center;
+letter-spacing: 0.03em;	
+}
 .person-title {
 font-family: 'Roboto';
 font-style: normal;
