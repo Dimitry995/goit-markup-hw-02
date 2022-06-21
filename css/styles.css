@@ -113,7 +113,7 @@ padding-bottom: 34px;
 	background-color:var(--six-color);
 	padding-top:0;
 }
-.hero-title-h {
+.hero-title {
 	padding-top: 200px;
 	font-size: 44px;
 	font-weight: 900;
@@ -142,7 +142,7 @@ padding-bottom: 34px;
 	cursor:pointer;
 	
 }
-.info-title-h {
+.info-title {
 	visibility:hidden;
 	margin-top:0;
 }
@@ -156,7 +156,7 @@ padding-bottom: 34px;
 	width:270px;
 
 }
-.info-title-h  {
+.info-title  {
 	font-weight: 700;
 	letter-spacing: 0.03em;
 	text-align: left;
@@ -205,7 +205,7 @@ padding-bottom: 34px;
 	padding-bottom:94px;
 
 }
-.person-title-h {
+.person-title {
 margin:0 auto;
 font-size: 36px;
 font-weight: 700;
@@ -215,7 +215,7 @@ text-align: center;
 color:var(--main-color);
 
 }
-.person-title-h {
+.person-title {
 	font-size: 16px;
 	font-weight: 500;
 	line-height: 1.2;
@@ -328,7 +328,7 @@ text-align: left;
 color:var(--main-color);
 margin-left:15px;
 }
-.content-title-h {
+.content-title {
 font-size: 16px;
 line-height: 2;
 letter-spacing: 0.03em;
