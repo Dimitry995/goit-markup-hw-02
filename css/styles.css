@@ -152,6 +152,9 @@ padding-bottom: 34px;
 	width:270px;
 
 }
+.info-title-h {
+visibility:hidden;	
+}
 .info-title  {
 	font-weight: 700;
 	letter-spacing: 0.03em;
