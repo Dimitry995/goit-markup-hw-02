@@ -328,7 +328,7 @@ visibility:hidden;
 	margin-bottom:25px;
 	width:370px;
 }
-.content-paragraf {
+.content-title {
 font-size: 18px;
 font-weight: 700;
 line-height:2;
@@ -337,7 +337,7 @@ text-align: left;
 color:var(--main-color);
 margin-left:15px;
 }
-.content-title {
+.content-paragraf {
 font-size: 16px;
 line-height: 2;
 letter-spacing: 0.03em;
