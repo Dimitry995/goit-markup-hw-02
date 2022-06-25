@@ -131,8 +131,8 @@ padding-bottom: 34px;
 	width: 696px;
 	height: 120px;
 	left: 452px;
-	top: 280px;
 	padding-top:200px;
+	padding-bottom:200px;
 }
 .hero-button {
 	background: var(--four-color);
@@ -146,11 +146,10 @@ padding-bottom: 34px;
 	color:var(--third-color);
 	cursor:pointer;
 	position: absolute;
-	width: 161px;
-	height: 30px;
+	width: 200px;
+	height: 50px;
 	left: 720px;
 	top: 440px;
-	padding-bottom:200px;
 	
 }
 .info-list  {
