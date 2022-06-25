@@ -25,9 +25,12 @@ a {
 .container {
 	width:1200px;
 	margin:0 auto;
+	padding-left:15px;
+	padding-right:15px;
 }
 section {
 	padding-top:94px;
+	padding-bottom:94px;
 }
 /*--HEADER--START--*/
 
@@ -129,6 +132,7 @@ padding-bottom: 34px;
 	height: 120px;
 	left: 452px;
 	top: 280px;
+	padding-top:200px;
 }
 .hero-button {
 	background: var(--four-color);
@@ -146,6 +150,7 @@ padding-bottom: 34px;
 	height: 30px;
 	left: 720px;
 	top: 440px;
+	padding-bottom:200px;
 	
 }
 .info-list  {
@@ -182,7 +187,6 @@ visibility:hidden;
 }
 .img-list  {
 	display:flex;
-	flex-direction: row;
 	justify-content: space-around;
 	padding-bottom:94px;
 }
@@ -315,7 +319,7 @@ visibility:hidden;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content:center;
-	margin-top:94px;
+	margin-top:50px;
 }
 .content-item  {
 	display:inline-block;
