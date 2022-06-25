@@ -12,6 +12,8 @@ body {
 	font-family:'Roboto', sans-serif;
 	letter-spacing:0.3em;
 	background-color:var(--third-color);
+	font-style: normal;
+	font-weight: 400;
 }
 ul,li {
 	margin-top:0;
